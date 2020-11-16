@@ -1,4 +1,4 @@
 ## Kremnari
 
-[TFMG](kremnari.github.io/TheFactoryMustGrow)\
-[JSON DS2](kremnari.github.io/jDS2)
+[TFMG](https://kremnari.github.io/TheFactoryMustGrow)\
+[JSON DS2](https://kremnari.github.io/jDS2)
