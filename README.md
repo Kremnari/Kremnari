@@ -5,12 +5,14 @@
 
 
 #### The Factory Must Grow
-[TFMG](https://kremnari.github.io/TheFactoryMustGrow)\
+[TFMG](https://kremnari.github.io/TheFactoryMustGrow)
+[(code)](https://github.com/TheFactoryMustGrow)\
 A PWA incremental game similar to the PC game Factorio.
 The player is tasked with building an ever-consuming factory
 
 #### JSON Data-schema/Data-source
-[JSON DS2](https://kremnari.github.io/jsonDS2)\
+[JSON DS2](https://kremnari.github.io/jsonDS2)
+[(code)](https://github.com/jsonDS2)\
 A tool for building a JSON combined data/schema data-source file.  These files can be consumed by more generic programs to generate functionality at run time
 This is a precursor to...
 
