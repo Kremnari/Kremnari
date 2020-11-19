@@ -18,4 +18,6 @@ This is a precursor to...
 
 #### ChameleonGui.is
 A runtime gui generator that can consume jDS2 program files for dynamic programs.
-This will initially be baked into TFMG.
+This will initially be baked into TFMG,
+then becoming its own site as jDS2 compatible endpoints
+start becoming available.
