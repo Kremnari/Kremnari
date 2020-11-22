@@ -16,17 +16,19 @@ Further information about reference links reside here
 
 ### Tables
 Name
-Schema
+Definition
 Content
 
-### Schemas
-Name
-Fields
+### Definitions
+Name : string
+Fields :
 
 ### Types
 Name
 Subtypes
 Validator : function
+####  Subtypes
+Parameters : 
 
 ### Functions
 Functions are passed to js's Function constructor with a parameter named "value"
