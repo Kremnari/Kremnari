@@ -16,7 +16,7 @@ The player is tasked with building an ever-consuming factory
 A tool for building a JSON combined data/schema data-source file.  These files can be consumed by more generic programs to generate functionality at run time
 This is a precursor to...
 
-#### ChameleonGui.is
+#### ChameleonGUI.js
 A runtime gui generator that can consume jDS2 program files for dynamic programs.
 This will initially be baked into TFMG,
 then becoming its own site as jDS2 compatible endpoints
