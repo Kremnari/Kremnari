@@ -1,4 +1,5 @@
-## [Kremnari](https://digitalpsigen.tech)
+## Kremnari
+[Digital PsycheGenesis](https://digitalpsigen.tech)
 
 
 ### My current projects
